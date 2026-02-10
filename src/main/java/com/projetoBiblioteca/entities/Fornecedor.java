@@ -37,12 +37,10 @@ public class Fornecedor {
 	private String inscricaoEstadual;
 	
 	public Fornecedor() {
-		super();
 	}
 
 	public Fornecedor(long id, String razaoSocial, String nomeFantasia, String cnpj, String endereco, String fone,
 			String email, String inscricaoEstadual) {
-		super();
 		this.id = id;
 		this.razaoSocial = razaoSocial;
 		this.nomeFantasia = nomeFantasia;
