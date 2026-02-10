@@ -30,7 +30,6 @@ public class Usuario {
 	
 
 	public Usuario() {
-		super();
 	}
 
 	public Usuario(long id, String nome, int password, String permissao, String usuario) {
